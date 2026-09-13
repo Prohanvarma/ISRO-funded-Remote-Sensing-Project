@@ -83,4 +83,4 @@ Extend support for multi-spectral satellite imagery
 Real-time visualization tools
 
 Author
-Rohan Varma
+Rohan Penumetcha
